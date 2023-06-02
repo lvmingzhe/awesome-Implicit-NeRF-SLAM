@@ -80,6 +80,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  **Co-SLAM**: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2304.14377.pdf)] [[Website](https://hengyiwang.github.io/projects/CoSLAM)][[Code](https://github.com/HengyiWang/Co-SLAM)]
 *  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
 *  Feature-realistic neural fusion for real-time, open set scene understanding, *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2210.03043)]
+*  FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow [[Paper](https://cameronosmith.github.io/flowcam/flowcam.pdf)][[Website](https://cameronosmith.github.io/flowcam/)]
 
 ---
 ### Lidar-SLAM
