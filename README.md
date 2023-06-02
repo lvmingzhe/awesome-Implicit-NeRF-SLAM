@@ -81,6 +81,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
 *  Feature-realistic neural fusion for real-time, open set scene understanding, *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2210.03043)]
 *  FlowCam: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow [[Paper](https://cameronosmith.github.io/flowcam/flowcam.pdf)][[Website](https://cameronosmith.github.io/flowcam/)]
+* FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM[[Paper](https://arxiv.org/abs/2306.00579)][[Website](https://vlis2022.github.io/fmap/)][[Code](https://github.com/thua919/FMapping)]
 
 ---
 ### Lidar-SLAM
