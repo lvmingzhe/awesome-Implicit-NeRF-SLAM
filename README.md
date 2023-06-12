@@ -12,6 +12,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ## Overview
 
   - [NeRF General Model](#nerf-general-model)
+  - [UnPosed NeRF](#unposed-nerf)
 
   - [SLAM](#slam)
     - [Visual-SLAM](#Visual-SLAM)
@@ -63,8 +64,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LocalRF** Progressively Optimized Local Radiance Fields for Robust View Synthesis [[Website](https://localrf.github.io/)]
 * **FlowCam**: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow [[Website](https://cameronosmith.github.io/flowcam/)]
 * **RUST**: Latent Neural Scene Representations from Unposed Imagery, *cvpr 2023* [[Website](https://rust-paper.github.io/)]
-
-* LU-NeRF: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs[[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
+* **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs[[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
+---
 
 ## SLAM
 
