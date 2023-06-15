@@ -66,6 +66,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **FlowCam**: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow [[Website](https://cameronosmith.github.io/flowcam/)]
 * **RUST**: Latent Neural Scene Representations from Unposed Imagery, *cvpr 2023* [[Website](https://rust-paper.github.io/)]
 * **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs[[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
+* **L2G-NeRF**: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields, *cvpr 2023*
+* **DBARF**: Deep Bundle-Adjusting Generalizable Neural Radiance Fields, *cvpr 2023*
 ---
 
 ## SLAM
