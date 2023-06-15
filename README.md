@@ -47,6 +47,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022*[[Website](https://proceedings.mlr.press/v164/moreau22a.html)]
+* **Behind the Scenes**: Density Fields for Single View Reconstruction, *cvpr 2023* [Website](https://fwmb.github.io/bts/)
 ---
 
 ## UnPosed NeRF
