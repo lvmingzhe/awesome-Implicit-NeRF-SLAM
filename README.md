@@ -48,11 +48,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022*[[Website](https://proceedings.mlr.press/v164/moreau22a.html)]
-* **Behind the Scenes**: Density Fields for Single View Reconstruction, *cvpr 2023* [Website](https://fwmb.github.io/bts/)
+* **Behind the Scenes**: Density Fields for Single View Reconstruction, *CVPR 2023* [[Website](https://fwmb.github.io/bts/)]
 ---
 
 ## UnPosed NeRF
-* **NeRF--:**: Neural Radiance Fields Without Known Camera Parameters, *arxiv 2021*  [[Website](https://nerfmm.active.vision/)]
+* **NeRF--**: Neural Radiance Fields Without Known Camera Parameters, *arxiv 2021*  [[Website](https://nerfmm.active.vision/)]
 * **BARF**: Bundle-Adjusting Neural Radiance Fields, *ICCV 2021* [[Website](https://chenhsuanlin.bitbucket.io/bundle-adjusting-NeRF/)]
 * **GNeRF**: GAN-based Neural Radiance Field without Posed Camera, *ICCV 2021* [[Paper](https://arxiv.org/pdf/2103.15606.pdf)]
 * **SaNeRF**: Structure-Aware NeRF without Posed Camera via Epipolar Constraint, *arxiv 2022* [[Code](https://github.com/XTU-PR-LAB/SaNerf)]
@@ -66,9 +66,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **L2G-NeRF**: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields, *CVPR 2023* [[Website](https://rover-xingyu.github.io/L2G-NeRF/)]
 * **LocalRF**: Progressively Optimized Local Radiance Fields for Robust View Synthesis, *CVPR 2023* [[Website](https://localrf.github.io/)][[Code](https://github.com/facebookresearch/localrf)]
 * **RUST**: Latent Neural Scene Representations from Unposed Imagery, *CVPR 2023* [[Website](https://rust-paper.github.io/)]
-* **MELON**: NeRF with Unposed Images Using Equivalence Class Estimation [[Website](https://melon-nerf.github.io/)]
-* **FlowCam**: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow [[Website](https://cameronosmith.github.io/flowcam/)]
-* **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs[[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
+* **MELON**: NeRF with Unposed Images Using Equivalence Class Estimation, *arxiv 2023* [[Website](https://melon-nerf.github.io/)]
+* **FlowCam**: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow, *arxiv 2023* [[Website](https://cameronosmith.github.io/flowcam/)]
+* **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs, *arxiv 2023* [[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
 ---
 
 ## SLAM
