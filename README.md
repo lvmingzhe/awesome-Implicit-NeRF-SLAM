@@ -111,7 +111,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Feature-realistic neural fusion for real-time, open set scene understanding, *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2210.03043)]
 * FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM, *arXiv, 2023* [[Paper](https://arxiv.org/abs/2306.00579)][[Website](https://vlis2022.github.io/fmap/)][[Code](https://github.com/thua919/FMapping)]
 * **$H_{2}$-Mapping**: Real-time Dense Mapping Using Hierarchical Hybrid Representation, *arXiv, 2023* [[Paper](https://arxiv.org/pdf/2306.03207.pdf)][[Code](https://github.com/SYSU-STAR/H2-Mapping)]
-*  **UncLe-SLAM**: Uncertainty Learning for Dense Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.11048.pdf)]
+* **UncLe-SLAM**: Uncertainty Learning for Dense Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.11048.pdf)]
+* RGB-D Mapping and Tracking in a Plenoxel Radiance Field, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2307.03404.pdf)]
 
 ---
 ### Lidar-SLAM
