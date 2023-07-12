@@ -49,6 +49,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022*[[Website](https://proceedings.mlr.press/v164/moreau22a.html)]
 * **Behind the Scenes**: Density Fields for Single View Reconstruction, *CVPR 2023* [[Website](https://fwmb.github.io/bts/)]
+* **S-NERF**: NEURAL RADIANCE FIELDS FOR STREET VIEWS, *ICLR 2023* [[Paper](https://arxiv.org/pdf/2303.00749.pdf)][[Code](https://github.com/fudan-zvg/S-NeRF)]
 * **StreetSurf**: Extending Multi-view Implicit Surface Reconstruction to Street Views, *arxiv 2023* [[Website](https://ventusff.github.io/streetsurf_web/)]
 ---
 
