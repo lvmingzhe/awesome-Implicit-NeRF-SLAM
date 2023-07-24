@@ -78,6 +78,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs, *arxiv 2023* [[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
 ---
 
+## Urban NeRF
+
+* **DNMP**:Urban Radiance Field Representation with Deformable Neural Mesh Primitives, *ICCV 2023* [[Website](https://dnmp.github.io/)][[Code](https://github.com/DNMP/DNMP)]
+
 ## SLAM
 
 ### Visual-SLAM
