@@ -72,6 +72,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **L2G-NeRF**: Local-to-Global Registration for Bundle-Adjusting Neural Radiance Fields, *CVPR 2023* [[Website](https://rover-xingyu.github.io/L2G-NeRF/)][[Code](https://github.com/rover-xingyu/L2G-NeRF)]
 * **LocalRF**: Progressively Optimized Local Radiance Fields for Robust View Synthesis, *CVPR 2023* [[Website](https://localrf.github.io/)][[Code](https://github.com/facebookresearch/localrf)]
 * **RUST**: Latent Neural Scene Representations from Unposed Imagery, *CVPR 2023* [[Website](https://rust-paper.github.io/)]
+* **BAD-NeRF**: Bundle Adjusted Deblur Neural Radiance Fields, *CVPR 2023* [[Code](https://github.com/WU-CVGL/BAD-NeRF)]
 * **RoDynRF**: Robust Dynamic Radiance Fields, *CVPR 2023* [[Website](https://robust-dynrf.github.io/)][[Code](https://github.com/facebookresearch/robust-dynrf)]
 * **FlowCam**: Training Generalizable 3D Radiance Fields without Camera Poses via Pixel-Aligned Scene Flow, *arxiv 2023* [[Website](https://cameronosmith.github.io/flowcam/)][[Paper](https://arxiv.org/pdf/2306.00180.pdf)][[Code](https://github.com/cameronosmith/FlowCam)]
 * **MELON**: NeRF with Unposed Images Using Equivalence Class Estimation, *arxiv 2023* [[Website](https://melon-nerf.github.io/)]
