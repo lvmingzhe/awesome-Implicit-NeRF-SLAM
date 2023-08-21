@@ -123,7 +123,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  **iMODE**:Real-Time Incremental Monocular Dense Mapping Using Neural Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161538)]
 *  **NISB-Map**: Scalable Mapping With Neural Implicit Spatial Block, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10163242)]
 *  RGB-D Mapping and Tracking in a Plenoxel Radiance Field, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2307.03404.pdf)]
-* Efficient Map Fusion for Multiple Implicit SLAM Agents, *T-IV, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10189088)]
+*  Efficient Map Fusion for Multiple Implicit SLAM Agents, *T-IV, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10189088)]
+*  **MIPS-Fusion**: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2308.08741.pdf)]
 
 
 ---
