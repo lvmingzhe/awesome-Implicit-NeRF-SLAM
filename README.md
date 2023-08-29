@@ -128,6 +128,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  RGB-D Mapping and Tracking in a Plenoxel Radiance Field, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2307.03404.pdf)]
 *  Efficient Map Fusion for Multiple Implicit SLAM Agents, *T-IV, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10189088)]
 *  **MIPS-Fusion**: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2308.08741.pdf)]
+*  Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
 
 
 ---
