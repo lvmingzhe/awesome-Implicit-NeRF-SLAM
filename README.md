@@ -79,7 +79,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **MELON**: NeRF with Unposed Images Using Equivalence Class Estimation, *arxiv 2023* [[Website](https://melon-nerf.github.io/)]
 * **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs, *arxiv 2023* [[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
 * **CamP**: Camera Preconditioning for Neural Radiance Fields, *SIGGRAPH Asia 2023* [[Website](https://camp-nerf.github.io/)]
-* Pose-Free Neural Radiance Fields via Implicit Pose Regularization, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2308.15049.pdf)]
+* Pose-Free Neural Radiance Fields via Implicit Pose Regularization, *ICCV 2023* [[Paper](https://arxiv.org/pdf/2308.15049.pdf)]
 
 ---
 
