@@ -131,6 +131,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Efficient Map Fusion for Multiple Implicit SLAM Agents, *T-IV, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10189088)]
 *  **MIPS-Fusion**: Multi-Implicit-Submaps for Scalable and Robust Online Neural RGB-D Reconstruction, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2308.08741.pdf)]
 *  Multi-Modal Neural Radiance Field for Monocular Dense SLAM with a Light-Weight ToF Sensor, *ICCV 2023*. [[Paper](https://arxiv.org/pdf/2308.14383.pdf)]
+*  Active Neural Mapping，*ICCV 2023*. [[Website](https://zikeyan.github.io/active-INR/index.html#)]
 
 
 ---
