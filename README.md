@@ -13,7 +13,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
   - [NeRF General Model](#nerf-general-model)
   - [UnPosed NeRF](#unposed-nerf)
-  - [Surface Reconstruction]()
+  - [Surface Reconstruction](#surface-reconstruction)
 
   - [SLAM](#slam)
     - [Visual-SLAM](#Visual-SLAM)
