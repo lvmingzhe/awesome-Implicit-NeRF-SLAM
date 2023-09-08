@@ -13,6 +13,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
   - [NeRF General Model](#nerf-general-model)
   - [UnPosed NeRF](#unposed-nerf)
+  - [Surface Reconstruction]()
 
   - [SLAM](#slam)
     - [Visual-SLAM](#Visual-SLAM)
@@ -54,6 +55,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Nerflets**: Local Radiance Fields for Efficient Structure-Aware 3D Representation from 2D Supervision, *CVPR 2023* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhang_Nerflets_Local_Radiance_Fields_for_Efficient_Structure-Aware_3D_Scene_Representation_CVPR_2023_paper.pdf)][[Website](https://jetd1.github.io/nerflets-web/)]
 * **LERF**: Language Embedded Radiance Fields, *arxiv 2023* [[Website](https://www.lerf.io/)][[Code](https://github.com/kerrj/lerf)]
 * **3DGS**: 3D Gaussian Splatting for Real-Time Radiance Field Rendering, *SIGGRAPH 2023 Best Paper* [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
+* **DNMP**:Urban Radiance Field Representation with Deformable Neural Mesh Primitives, *ICCV 2023* [[Website](https://dnmp.github.io/)][[Code](https://github.com/DNMP/DNMP)]
+
 ---
 
 ## UnPosed NeRF
@@ -83,9 +86,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ---
 
-## Urban NeRF
+## Surface Reconstruction
+*  *NKSR*: Neural Kernel Surface Reconstruction, *CVPR 2023* [[Code](https://github.com/nv-tlabs/NKSR)]
 
-* **DNMP**:Urban Radiance Field Representation with Deformable Neural Mesh Primitives, *ICCV 2023* [[Website](https://dnmp.github.io/)][[Code](https://github.com/DNMP/DNMP)]
 
 ## SLAM
 
