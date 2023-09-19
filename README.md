@@ -83,6 +83,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LU-NeRF**: Scene and Pose Estimation by Synchronizing Local Unposed NeRFs, *arxiv 2023* [[Website](https://people.cs.umass.edu/~zezhoucheng/lu-nerf/)][[Paper](https://arxiv.org/pdf/2306.05410.pdf)]
 * **CamP**: Camera Preconditioning for Neural Radiance Fields, *SIGGRAPH Asia 2023* [[Website](https://camp-nerf.github.io/)]
 * Pose-Free Neural Radiance Fields via Implicit Pose Regularization, *ICCV 2023* [[Paper](https://arxiv.org/pdf/2308.15049.pdf)]
+* **DynaMoN**: Motion-Aware Fast AndRobust Camera Localization for Dynamic NeRF, *arxiv 2023* [[Paper](https://arxiv.org/abs/2309.08927)]
+
+
 
 ---
 
@@ -137,7 +140,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Active Neural Mapping，*ICCV 2023*. [[Website](https://zikeyan.github.io/active-INR/index.html#)]
 *  **GO-SLAM**:Global Optimization for Consistent 3D Instant Reconstruction，*ICCV 2023*. [[Website](https://youmi-zym.github.io/projects/GO-SLAM/)]
 *  End-to-End RGB-D SLAM with Multi-MLPs Dense Neural Implicit Representations, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238793)]
-
+* **NeRF-VINS**: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System, *arxiv, 2023* [[Paper](https://arxiv.org/abs/2309.09295)]
 
 ---
 ### Lidar-SLAM
