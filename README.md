@@ -86,6 +86,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Pose-Free Neural Radiance Fields via Implicit Pose Regularization, *ICCV 2023* [[Paper](https://arxiv.org/pdf/2308.15049.pdf)]
 * **MC-NeRF**: Muti-Camera Neural Radiance Fields for Muti-Camera Image Acquisition Systems, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2309.07846.pdf)]
 * **DynaMoN**: Motion-Aware Fast AndRobust Camera Localization for Dynamic NeRF, *arxiv 2023* [[Paper](https://arxiv.org/abs/2309.08927)]
+* USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields, *arxiv 2023* [[Paper](https://browse.arxiv.org/pdf/2310.02687.pdf)]
 
 
 
