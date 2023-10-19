@@ -147,6 +147,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  End-to-End RGB-D SLAM with Multi-MLPs Dense Neural Implicit Representations, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238793)]
 * **NeRF-VINS**: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System, *arxiv, 2023* [[Paper](https://arxiv.org/abs/2309.09295)]
 * **HI-SLAM**: Monocular Realtime Dense Mapping with Hybrid Implicit Fields. *arXiv, 2023* [[Paper](https://arxiv.org/abs/2310.04787)]
+* Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors， NeurIPS 2023 [[Website](https://machineperceptionlab.github.io/Attentive_DF_Prior/)]
 
 ---
 ### Lidar-SLAM
