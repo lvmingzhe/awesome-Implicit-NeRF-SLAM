@@ -217,6 +217,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 * **CLIP-Fields**: Open-label semantic navigation with pre-trained VLMs and language models, *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2210.05663)] [[Pytorch Code and Tutorials](https://github.com/notmahi/clip-fields)] [[Website](https://mahis.life/clip-fields/)]
 
+* Vision-Only Robot Navigation in a Neural Radiance World, *RA-L, 2022*. [[Website](https://mikh3x4.github.io/nerf-navigation/)]
+
 * **RNR-Map**Renderable Neural Radiance Map for Visual Navigation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.00304.pdf)]
 
 * **NeRF2Real**: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2210.04932.pdf)]
