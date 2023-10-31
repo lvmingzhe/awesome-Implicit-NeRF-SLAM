@@ -38,7 +38,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Neural-Sim**: Learning to Generate Training Data with NeRF, *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Pytorch Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
 * **SNAKE**: SNAKE: Shape-aware Neural 3D Keypoint Field, *NeurIPS, 2022*. [[Paper](https://arxiv.org/abs/2206.01724.pdf)] [[Pytorch Code](https://github.com/zhongcl-thu/SNAKE)]
 * **NeRF-RPN**: A general framework for object detection in NeRFs, *arXiv, 2022*. [[Paper](https://arxiv.org/abs/2211.11646)] [[Video](https://youtu.be/M8_4Ih1CJjE)] 
-* **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
 * **nerf2nerf**: Pairwise Registration of Neural Radiance Fields, *ICRA, 2023*.  [[Paper](https://arxiv.org/pdf/2211.01600.pdf)] [[Pytorch Code]( https://github.com/nerf2nerf/nerf2nerf)] [[Webpage](https://nerf2nerf.github.io/)] [[Dataset](https://drive.google.com/drive/folders/1jNpwAv1T1ntjIHUMJ1wABePA2Z8_nRRQ)]
 * **Point-NeRF**: Point-based Neural Radiance Fields, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2201.08845.pdf)] [[Pytorch Code](https://github.com/Xharlie/pointnerf)] [[Website](https://xharlie.github.io/projects/project_sites/pointnerf/)]
 * **Zip-NeRF**: Anti-Aliased Grid-Based Neural Radiance Fields, *CVPR, 2023*. [[Paper](https://arxiv.org/abs/2304.06706)] [[Website](https://jonbarron.info/zipnerf/)] [[Video](https://www.youtube.com/watch?v=xrrhynRzC8k)]
@@ -47,7 +46,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **3D Gaussian Splatting for Real-Time Radiance Field Rendering**, *SIGGRAPH, 2023*. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
 * **NeRFuser**: Large-Scale Scene Representation by NeRF Fusion, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2305.13307.pdf)] [[Website](https://github.com/ripl/nerfuser)]
 * Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
-* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022*[[Website](https://proceedings.mlr.press/v164/moreau22a.html)]
 * **Behind the Scenes**: Density Fields for Single View Reconstruction, *CVPR 2023* [[Website](https://fwmb.github.io/bts/)]
 * **S-NERF**: NEURAL RADIANCE FIELDS FOR STREET VIEWS, *ICLR 2023* [[Paper](https://arxiv.org/pdf/2303.00749.pdf)][[Code](https://github.com/fudan-zvg/S-NeRF)]
@@ -56,7 +54,16 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LERF**: Language Embedded Radiance Fields, *arxiv 2023* [[Website](https://www.lerf.io/)][[Code](https://github.com/kerrj/lerf)]
 * **3DGS**: 3D Gaussian Splatting for Real-Time Radiance Field Rendering, *SIGGRAPH 2023 Best Paper* [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 * **DNMP**:Urban Radiance Field Representation with Deformable Neural Mesh Primitives, *ICCV 2023* [[Website](https://dnmp.github.io/)][[Code](https://github.com/DNMP/DNMP)]
+
+---
+## Localization
+
+* **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
+* **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021*. [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
+* **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022*,[[Paper](https://arxiv.org/abs/2204.00559)]  
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
+* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
+* **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
 
 ---
 
@@ -108,7 +115,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 - **Di-fusion**: Online implicit 3d reconstruction with deep priors, *CVPR, 2021*.[[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Huang_DI-Fusion_Online_Implicit_3D_Reconstruction_With_Deep_Priors_CVPR_2021_paper.pdf)] [[Pytorch Code](https://github.com/huangjh-pub/di-fusion)] 
 
-* **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021*. [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
 * **iSDF**: Real-Time Neural Signed Distance Fields for Robot Perception, *RSS, 2022*. [[Paper](https://arxiv.org/abs/2204.02296)] [[Pytorch Code](https://github.com/facebookresearch/iSDF)] [[Website](https://joeaortiz.github.io/iSDF/)]
 * SDF-based RGB-D Camera Tracking in Neural Scene Representations, *ICRA Workshop, 2022*. [[Paper](https://neural-implicit-workshop.stanford.edu/assets/pdf/bruns.pdf)]
 *  **BNV-Fusion**: BNV-Fusion: Dense 3D Reconstruction using Bi-level Neural Volume Fusion, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2204.01139.pdf)] [[Pytorch Code](https://github.com/likojack/bnv_fusion)]
