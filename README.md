@@ -96,7 +96,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * USB-NeRF: Unrolling Shutter Bundle Adjusted Neural Radiance Fields, *arxiv 2023* [[Paper](https://browse.arxiv.org/pdf/2310.02687.pdf)]
 * **PoRF**: Pose Residual Field for Accurate Neural Surface Reconstruction, *arxiv 2023* [[Paper](https://arxiv.org/abs/2310.07449)]
 * **CBARF**: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2310.09776.pdf)]
-
+* **UP-NeRF**: Unconstrained Pose-Prior-Free Neural Radiance Fields, *NeurIPS 2023 * [[paper](https://arxiv.org/abs/2311.03784)]
 
 
 ---
