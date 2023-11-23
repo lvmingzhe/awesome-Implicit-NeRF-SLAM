@@ -140,7 +140,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  Feature-realistic neural fusion for real-time, open set scene understanding, *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2210.03043)]
 *  FMapping: Factorized Efficient Neural Field Mapping for Real-Time Dense RGB SLAM, *arXiv, 2023* [[Paper](https://arxiv.org/abs/2306.00579)][[Website](https://vlis2022.github.io/fmap/)][[Code](https://github.com/thua919/FMapping)]
 * **NeRF-bridge**: Bringing Real-time, Online Neural Radiance Field Training to Robotics, *ICRA-W 2023* [[Code](https://github.com/javieryu/nerf_bridge)]
-*  **$H_{2}$-Mapping**: Real-time Dense Mapping Using Hierarchical Hybrid Representation, *arXiv, 2023* [[Paper](https://arxiv.org/pdf/2306.03207.pdf)][[Code](https://github.com/SYSU-STAR/H2-Mapping)]
+*  **$H_{2}$-Mapping**: Real-time Dense Mapping Using Hierarchical Hybrid Representation, *RA-L, 2023* [[Paper](https://arxiv.org/pdf/2306.03207.pdf)][[Code](https://github.com/SYSU-STAR/H2-Mapping)]
 *  **UncLe-SLAM**: Uncertainty Learning for Dense Neural SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2306.11048.pdf)]
 *  **iMODE**:Real-Time Incremental Monocular Dense Mapping Using Neural Field, *ICRA, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10161538)]
 *  **NISB-Map**: Scalable Mapping With Neural Implicit Spatial Block, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10163242)]
