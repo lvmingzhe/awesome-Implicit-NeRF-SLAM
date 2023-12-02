@@ -64,6 +64,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
+* **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
 
 ---
 
@@ -97,7 +98,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **PoRF**: Pose Residual Field for Accurate Neural Surface Reconstruction, *arxiv 2023* [[Paper](https://arxiv.org/abs/2310.07449)]
 * **CBARF**: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2310.09776.pdf)]
 * **UP-NeRF**: Unconstrained Pose-Prior-Free Neural Radiance Fields, *NeurIPS 2023 * [[paper](https://arxiv.org/abs/2311.03784)]
-
+* Continuous Pose for Monocular Cameras in Neural Implicit Representation, *NeurIPS 2023 * [[paper](https://arxiv.org/abs/2311.17119)]
+* Pose-Free Generalizable Rendering Transformer, *arxiv 2023 * [[paper](https://arxiv.org/abs/2310.03704)]
 
 ---
 
