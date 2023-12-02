@@ -98,7 +98,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **PoRF**: Pose Residual Field for Accurate Neural Surface Reconstruction, *arxiv 2023* [[Paper](https://arxiv.org/abs/2310.07449)]
 * **CBARF**: Cascaded Bundle-Adjusting Neural Radiance Fields from Imperfect Camera Poses, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2310.09776.pdf)]
 * **UP-NeRF**: Unconstrained Pose-Prior-Free Neural Radiance Fields, *NeurIPS 2023 * [[paper](https://arxiv.org/abs/2311.03784)]
-* Continuous Pose for Monocular Cameras in Neural Implicit Representation, *NeurIPS 2023 * [[paper](https://arxiv.org/abs/2311.17119)]
+* Continuous Pose for Monocular Cameras in Neural Implicit Representation, *arxiv 2023 * [[paper](https://arxiv.org/abs/2311.17119)]
 * Pose-Free Generalizable Rendering Transformer, *arxiv 2023 * [[paper](https://arxiv.org/abs/2310.03704)]
 
 ---
