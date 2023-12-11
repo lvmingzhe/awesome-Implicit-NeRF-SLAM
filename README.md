@@ -180,6 +180,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 - Accurate Implicit Neural Mapping with More Compact Representation in Large-scale Scenes Using Ranging Data, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238795)]
 - **LONER**: LiDAR Only Neural Representations for Real-Time SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2309.04937.pdf)]
 - **CLONeR**: Camera-Lidar Fusion for Occupancy Grid-Aided Neural Representations, *RAL 2023* [[Paper](https://arxiv.org/pdf/2209.01194.pdf)]
+* Dynamic LiDAR Re-simulation using Compositional Neural Fields, *arxiv 2023* [[Website](https://shengyuh.github.io/dynfl/index.html)]
 
 ---
 ## Robotics
