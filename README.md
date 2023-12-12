@@ -166,6 +166,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
 * **LiveNVS**: Neural View Synthesis on Live RGB-D Streams, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16668.pdf)]
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
+* Gaussian Splatting SLAM, *arxiv 2023* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 
 
 
