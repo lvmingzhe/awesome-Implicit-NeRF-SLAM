@@ -101,6 +101,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Continuous Pose for Monocular Cameras in Neural Implicit Representation, *arxiv 2023 * [[paper](https://arxiv.org/abs/2311.17119)]
 * Pose-Free Generalizable Rendering Transformer, *arxiv 2023 * [[paper](https://arxiv.org/abs/2310.03704)]
 
+
+## UnPosed 3DGS
+* COLMAP-Free 3D Gaussian Splatting, *arxiv 2023* [[Paper](https://arxiv.org/abs/2312.07504)]
+
 ---
 
 ## Surface Reconstruction
@@ -109,7 +113,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ## SLAM
 
-### Visual-SLAM
+### NeRF-based Visual-SLAM
 
 * **iMAP**: Implicit Mapping and Positioning in Real-Time, *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2103.12352)] [[Website](https://edgarsucar.github.io/iMAP/)] [[Video](https://www.youtube.com/watch?v=c-zkKGArl5Y)] 
 * **NICE-SLAM**: Neural Implicit Scalable Encoding for SLAM, *CVPR, 2021*. [[Paper](https://arxiv.org/abs/2112.12130)] [[Pytorch Code](https://github.com/cvg/nice-slam)] [[Website](https://pengsongyou.github.io/nice-slam?utm_source=catalyzex.com)]
@@ -164,7 +168,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
 * **LiveNVS**: Neural View Synthesis on Live RGB-D Streams, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16668.pdf)]
 
-#### 3D Gaussian Splatting SLAM
+### 3D Gaussian Splatting Visual-SLAM
 
 * **GS-SLAM**:Dense Visual SLAM with 3D Gaussian Splatting, *arxiv 2023* [[Paper](https://arxiv.org/abs/2311.11700)]
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
@@ -173,7 +177,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Gaussian Splatting SLAM**, *arxiv 2023* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 
 ---
-### Lidar-SLAM
+### NeRF-based Lidar-SLAM
 
 - **SHINE-Mapping**: Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
 - **IRMCL**: Implicit Representation-based Online Global Localization, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2210.03113.pdf)] [[Code](https://github.com/PRBonn/ir-mcl)]
