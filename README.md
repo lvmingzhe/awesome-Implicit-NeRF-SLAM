@@ -101,7 +101,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Continuous Pose for Monocular Cameras in Neural Implicit Representation, *arxiv 2023 * [[paper](https://arxiv.org/abs/2311.17119)]
 * Pose-Free Generalizable Rendering Transformer, *arxiv 2023 * [[paper](https://arxiv.org/abs/2310.03704)]
 * Unifying Correspondence, Pose andNeRF for Pose-Free Novel ViewSynthesis from Stereo Pairs, *arxiv 2023* [[Paper](https://arxiv.org/abs/2312.07246)]
-
+* CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning，*arxiv 2023* [[Paper](https://arxiv.org/abs/2312.08760)]
 
 ## UnPosed 3DGS
 * COLMAP-Free 3D Gaussian Splatting, *arxiv 2023* [[Paper](https://arxiv.org/abs/2312.07504)]
