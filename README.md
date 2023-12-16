@@ -65,7 +65,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
 * **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
-
+* **iComMa**: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.09031.pdf)]
 ---
 
 ## UnPosed NeRF
