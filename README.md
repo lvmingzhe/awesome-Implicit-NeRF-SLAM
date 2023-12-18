@@ -168,6 +168,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **SNI-SLAM**: Semantic Neural Implicit SLAM, *arxiv 2023* [[Paper](https://arxiv.org/abs/2311.11016)]
 * **DNS SLAM**: Dense Neural Semantic-Informed SLAM, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.00204.pdf)]
 * **LiveNVS**: Neural View Synthesis on Live RGB-D Streams, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16668.pdf)]
+* **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 
 ### 3D Gaussian Splatting Visual-SLAM
 
