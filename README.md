@@ -170,6 +170,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LiveNVS**: Neural View Synthesis on Live RGB-D Streams, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16668.pdf)]
 * **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM，*arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
+* **NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 
 ### 3D Gaussian Splatting Visual-SLAM
 
