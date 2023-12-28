@@ -174,7 +174,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LiveNVS**: Neural View Synthesis on Live RGB-D Streams, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16668.pdf)]
 * **PLGSLAM**: Progressive Neural Scene Represenation with Local to Global Bundle Adjustment, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.09866.pdf)]
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM，*arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
-* **NeRF-VO: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
+* **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 
 ### 3D Gaussian Splatting Visual-SLAM
 
@@ -195,7 +195,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 - Accurate Implicit Neural Mapping with More Compact Representation in Large-scale Scenes Using Ranging Data, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238795)]
 - **LONER**: LiDAR Only Neural Representations for Real-Time SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2309.04937.pdf)]
 - **CLONeR**: Camera-Lidar Fusion for Occupancy Grid-Aided Neural Representations, *RAL 2023* [[Paper](https://arxiv.org/pdf/2209.01194.pdf)]
-* Dynamic LiDAR Re-simulation using Compositional Neural Fields, *arxiv 2023* [[Website](https://shengyuh.github.io/dynfl/index.html)]
+- Dynamic LiDAR Re-simulation using Compositional Neural Fields, *arxiv 2023* [[Website](https://shengyuh.github.io/dynfl/index.html)]
+
+- **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes， *arxiv 2023* [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
 
 ---
 ## Robotics
