@@ -45,8 +45,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **F2-NeRF**: Fast Neural Radiance Field Training with Free Camera Trajectories, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.15951.pdf)] [[Pytorch Code](https://github.com/totoro97/f2-nerf)] [[Website](https://totoro97.github.io/projects/f2-nerf/)] [[Dataset](https://www.dropbox.com/sh/jmfao2c4dp9usji/AAC7Ydj6rrrhy1-VvlAVjyE_a?dl=0)]
 * **3D Gaussian Splatting for Real-Time Radiance Field Rendering**, *SIGGRAPH, 2023*. [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/3d_gaussian_splatting_low.pdf)] [[Website](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)]
 * **NeRFuser**: Large-Scale Scene Representation by NeRF Fusion, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2305.13307.pdf)] [[Website](https://github.com/ripl/nerfuser)]
-* Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
-* **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022*[[Website](https://proceedings.mlr.press/v164/moreau22a.html)]
 * **Behind the Scenes**: Density Fields for Single View Reconstruction, *CVPR 2023* [[Website](https://fwmb.github.io/bts/)]
 * **S-NERF**: NEURAL RADIANCE FIELDS FOR STREET VIEWS, *ICLR 2023* [[Paper](https://arxiv.org/pdf/2303.00749.pdf)][[Code](https://github.com/fudan-zvg/S-NeRF)]
 * **StreetSurf**: Extending Multi-view Implicit Surface Reconstruction to Street Views, *arxiv 2023* [[Website](https://ventusff.github.io/streetsurf_web/)]
@@ -59,9 +57,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ## Localization
 
 * **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021* [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
-* **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021* [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
+* **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022* [[Website](https://proceedings.mlr.press/v164/moreau22a.html)][[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
 * **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022* [[Paper](https://arxiv.org/abs/2204.00559)]  
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
+* Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
 * **NeRF-Loc**: Transformer-Based Object Localization Within Neural Radiance Fields, *RAL 2023* [[Paper](https://ieeexplore.ieee.org/abstract/document/10175562)]
