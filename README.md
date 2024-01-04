@@ -65,6 +65,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
 * **NeRF-Loc**: Transformer-Based Object Localization Within Neural Radiance Fields, *RAL 2023* [[Paper](https://ieeexplore.ieee.org/abstract/document/10175562)]
 * **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023* [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
+* **PI-NeRF**: A Partial-Invertible Neural Radiance Fields for Pose Estimation, *MM 2023 * [[Paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612590?casa_token=A_Rum5YQWGMAAAAA:bhDhgzCkUK7vamdmOP-Ocs1pKlloQfsnMDpZIZrTNiNGfm9MOl5EGWPoff7TY2vUVROrPEpSuPxiV0U)]
 * **PNeRFLoc**: Visual Localization with Point-based Neural Radiance Fields， *AAAI 2024* [[Website](https://zju3dv.github.io/PNeRFLoc/)]
 * **CaLDiff**: Camera Localization in NeRFvia Pose Diffusion，*arxiv 2023* [[Paper](https://arxiv.org/abs/2312.15242)]
 
