@@ -57,6 +57,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ## Localization
 
 * **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021* [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
+* **Direct-PoseNet**: Absolute Pose Regression with Photometric Consistency, *3DV 2021* [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9665846)]
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022* [[Website](https://proceedings.mlr.press/v164/moreau22a.html)][[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
 * **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022* [[Paper](https://arxiv.org/abs/2204.00559)]  
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
