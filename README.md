@@ -58,14 +58,15 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 ---
 ## Localization
 
-* **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
-* **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021*. [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
-* **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022*,[[Paper](https://arxiv.org/abs/2204.00559)]  
+* **iNeRF**: Inverting Neural Radiance Fields for Pose Estimation, *IROS, 2021* [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
+* **LENS**: LENS: Localization enhanced by NeRF synthesis, *CoRL, 2021* [[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
+* **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022* [[Paper](https://arxiv.org/abs/2204.00559)]  
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
-* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
-* **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
-* **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
-* **PNeRFLoc**: Visual Localization with Point-based Neural Radiance Fields， *AAAI 2024*. [[Website](https://zju3dv.github.io/PNeRFLoc/)]
+* **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
+* **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
+* **NeRF-Loc**: Transformer-Based Object Localization Within Neural Radiance Fields, *RAL 2023* [[Paper](https://ieeexplore.ieee.org/abstract/document/10175562)]
+* **LocNDF**: Neural Distance Field Mapping for Robot Localization, *RAL, 2023* [[Paper](https://ieeexplore.ieee.org/document/10168941/)] [[Pytorch Code](https://github.com/PRBonn/LocNDF)]
+* **PNeRFLoc**: Visual Localization with Point-based Neural Radiance Fields， *AAAI 2024* [[Website](https://zju3dv.github.io/PNeRFLoc/)]
 * **CaLDiff**: Camera Localization in NeRFvia Pose Diffusion，*arxiv 2023* [[Paper](https://arxiv.org/abs/2312.15242)]
 
 * **iComMa**: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.09031.pdf)]
