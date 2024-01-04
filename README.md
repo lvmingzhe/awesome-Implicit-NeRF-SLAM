@@ -60,6 +60,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LENS**: Localization enhanced by NeRF synthesis, *PMLR 2022* [[Website](https://proceedings.mlr.press/v164/moreau22a.html)][[Paper](https://arxiv.org/abs/2110.06558)] [[Video](https://www.youtube.com/watch?v=DgIpVoS6ejY)] 
 * **DFNet**: Enhance Absolute Pose Regression with Direct Feature Matching, *ECCV 2022* [[Paper](https://arxiv.org/abs/2204.00559)]  
 * **BID-NeRF**: RGB-D image pose estimation with inverted Neural Radiance Fields [[Paper](https://browse.arxiv.org/pdf/2310.03563.pdf)]
+* **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA 2023* [[Code](https://github.com/jike5/LATITUDE)]
 * Parallel Inversion of Neural Radiance Fields for Robust Pose Estimation, *ICRA 2023*[[Paper](https://arxiv.org/pdf/2210.10108.pdf)]
 * **Loc-NeRF**: Monte Carlo Localization using Neural Radiance Fields, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2209.09050.pdf)]
 * **NeRF-Loc**: Visual Localization with Conditional Neural Radiance Field, *ICRA 2023* [[Paper](https://arxiv.org/pdf/2304.07979.pdf)]
