@@ -167,7 +167,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 *  **GO-SLAM**:Global Optimization for Consistent 3D Instant Reconstruction，*ICCV 2023*. [[Website](https://youmi-zym.github.io/projects/GO-SLAM/)]
 *  End-to-End RGB-D SLAM with Multi-MLPs Dense Neural Implicit Representations, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10238793)]
 * **NeRF-VINS**: A Real-time Neural Radiance Field Map-based Visual-Inertial Navigation System, *arxiv, 2023* [[Paper](https://arxiv.org/abs/2309.09295)]
-* **HI-SLAM**: Monocular Realtime Dense Mapping with Hybrid Implicit Fields. *arXiv, 2023* [[Paper](https://arxiv.org/abs/2310.04787)]
+* **HI-SLAM**: Monocular Realtime Dense Mapping with Hybrid Implicit Fields. *RAL, 2023* [[Paper](https://arxiv.org/abs/2310.04787)]
 * **LNI-ADFP**:Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors， NeurIPS 2023 [[Website](https://machineperceptionlab.github.io/Attentive_DF_Prior/)]
 * **TiV-NeRF**: Tracking and Mapping via Time-Varying Representation with Dynamic Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2310.18917.pdf)]
 * CP-SLAM: Collaborative Neural Point-based SLAM, *NeurIPS 2023* [[Paper](https://openreview.net/pdf?id=dFSeZm6dTC)]
