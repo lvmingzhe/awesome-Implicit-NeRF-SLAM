@@ -181,6 +181,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM，*arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
 * **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
+* **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03203.pdf)]
+
 
 ### dynamic NeRF SLAM
 
@@ -212,6 +214,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 - **LISNeRF Mapping**: LiDAR-based Implicit Mapping via Semantic Neural
 Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.02313.pdf)]
 - **NeRF-LiDAR**: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields, *AAAI 2024* [[Paper](https://arxiv.org/abs/2304.14811)]
+- **N3-Mapping**: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03412.pdf)]
 
 - **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes， *arxiv 2023* [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
 
