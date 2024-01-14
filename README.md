@@ -52,6 +52,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **LERF**: Language Embedded Radiance Fields, *arxiv 2023* [[Website](https://www.lerf.io/)][[Code](https://github.com/kerrj/lerf)]
 * **3DGS**: 3D Gaussian Splatting for Real-Time Radiance Field Rendering, *SIGGRAPH 2023 Best Paper* [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 * **DNMP**:Urban Radiance Field Representation with Deformable Neural Mesh Primitives, *ICCV 2023* [[Website](https://dnmp.github.io/)][[Code](https://github.com/DNMP/DNMP)]
+* **TRIPS**: Trilinear Point Splatting for Real-Time Radiance Field Rendering, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.06003.pdf)][[Code](https://github.com/lfranke/trips)]
 
 ---
 ## Localization
