@@ -112,6 +112,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Pose-Free Generalizable Rendering Transformer, *arxiv 2023 * [[paper](https://arxiv.org/abs/2310.03704)]
 * Unifying Correspondence, Pose andNeRF for Pose-Free Novel ViewSynthesis from Stereo Pairs, *arxiv 2023* [[Paper](https://arxiv.org/abs/2312.07246)]
 * CF-NeRF: Camera Parameter Free Neural Radiance Fields with Incremental Learning，*arxiv 2023* [[Paper](https://arxiv.org/abs/2312.08760)]
+* **ICON**: Incremental CONfidence for Joint Pose and Radiance Field Optimization，*arxiv 2024* [[Paper](https://www.scholar-inbox.com/papers/Wang2024ARXIV_ICON_Incremental_CONfidence_for.pdf)]
 
 ## UnPosed 3DGS
 * COLMAP-Free 3D Gaussian Splatting, *arxiv 2023* [[Paper](https://arxiv.org/abs/2312.07504)]
@@ -216,8 +217,10 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.02313.pdf)]
 - **NeRF-LiDAR**: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields, *AAAI 2024* [[Paper](https://arxiv.org/abs/2304.14811)]
 - **N3-Mapping**: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03412.pdf)]
+- **PIN-SLAM**: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency, *arxiv 2024* [[Paper](https://www.scholar-inbox.com/papers/Pan2024ARXIV_PIN_SLAM_LiDAR_SLAM.pdf)][[Code](https://github.com/PRBonn/PIN_SLAM)]
 
 - **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes， *arxiv 2023* [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
+
 
 ---
 ## Robotics
