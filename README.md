@@ -185,7 +185,6 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
 * **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03203.pdf)]
 
-
 ### dynamic NeRF SLAM
 
 * **DN-SLAM**: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments, *IEEE Sensors, 2023*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10376402)]
@@ -220,6 +219,10 @@ Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/23
 - **PIN-SLAM**: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency, *arxiv 2024* [[Paper](https://www.scholar-inbox.com/papers/Pan2024ARXIV_PIN_SLAM_LiDAR_SLAM.pdf)][[Code](https://github.com/PRBonn/PIN_SLAM)]
 
 - **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes， *arxiv 2023* [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
+
+
+### 3D Gaussian Splatting LIDAR-SLAM
+- **LIV-GaussMap**: LiDAR-Inertial-Visual Fusion for Real-time 3D Radiance Field Map Rendering, *arxiv 2024* [[Paper](https://www.scholar-inbox.com/papers/Hong2024ARXIV_LIV_GaussMap_LiDAR_Inertial.pdf)]
 
 
 ---
