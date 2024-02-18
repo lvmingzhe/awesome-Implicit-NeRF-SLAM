@@ -184,6 +184,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
 * **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03203.pdf)]
+* **Loopy-SLAM**: Dense Neural SLAM with Loop Closures, *arxiv 2024* [[Website](https://notchla.github.io/Loopy-SLAM/)]
 
 ### dynamic NeRF SLAM
 
