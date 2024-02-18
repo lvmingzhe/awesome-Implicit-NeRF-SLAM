@@ -183,7 +183,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * Ternary-type Opacity and Hybrid Odometry for RGB-only NeRF-SLAM，*arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13332.pdf)]
 * **NeRF-VO**: Real-Time Sparse Visual Odometry with Neural Radiance Fields, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.13471.pdf)]
 * **NID-SLAM**: Neural Implicit Representation-based RGB-D SLAM in dynamic environments, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.01189.pdf)]
-* **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03203.pdf)]
+* **Hi-Map**: Hierarchical Factorized Radiance Field for High-Fidelity Monocular Dense Mapping, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2401.03203.pdf)] [[Website](https://vlis2022.github.io/fmap/)] [[Code](https://github.com/thua919/FMapping)]
+* **NeuV-SLAM**: Fast Neural Multiresolution Voxel Optimization for RGBD Dense SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.02020.pdf)] [[Code](https://github.com/DARYL-GWZ/NeuV-SLAM/tree/main)]
+* **Structerf-SLAM**: Neural implicit representation SLAM for structural environments, *Computers & Graphics, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849324000207)]
 * **Loopy-SLAM**: Dense Neural SLAM with Loop Closures, *arxiv 2024* [[Website](https://notchla.github.io/Loopy-SLAM/)]
 
 ### dynamic NeRF SLAM
@@ -200,6 +202,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * **Gaussian-SLAM**: Photo-realistic Dense SLAM with Gaussian Splatting, *arxiv 2023* [[Paper](https://ivi.fnwi.uva.nl/cv/paper/GaussianSLAM.pdf)]
 * **Gaussian Splatting SLAM**, *arxiv 2023* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
+* **MoD-SLAM**: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03762.pdf)]
+* **SGS-SLAM**: Semantic Gaussian Splatting For Neural Dense SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)]
 
 ---
 ### NeRF-based Lidar-SLAM
