@@ -75,7 +75,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **CaLDiff**: Camera Localization in NeRFvia Pose Diffusion，*arxiv 2023* [[Paper](https://arxiv.org/abs/2312.15242)]
 
 * **iComMa**: Inverting 3D Gaussians Splatting for Camera Pose Estimation via Comparing and Matching, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2312.09031.pdf)]
-
+* Leveraging Neural Radiance Fields for Uncertainty-Aware Visual Localization, *ICRA, 2024*, [[Paper]](https://arxiv.org/pdf/2310.06984.pdf) [[Video]](https://drive.google.com/file/d/1YUMlngGFvYY_iPNu9wMA1woxw8432qXh/view?usp=sharing)
 ---
 
 ## UnPosed NeRF
@@ -124,6 +124,9 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 
 ## SLAM
+
+### Survey Paper
+- How NeRFs and 3D Gaussian Splatting are Reshaping SLAM: a Survey, *arXiv, 2024*.[[Paper](https://arxiv.org/pdf/2402.13255.pdf)]
 
 ### NeRF-based Visual-SLAM
 
