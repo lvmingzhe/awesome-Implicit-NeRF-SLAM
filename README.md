@@ -293,6 +293,7 @@ Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/23
 * Vision-Only Robot Navigation in a Neural Radiance World, *RA-L, 2022*. [[Website](https://mikh3x4.github.io/nerf-navigation/)]
 
 * **RNR-Map**Renderable Neural Radiance Map for Visual Navigation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.00304.pdf)]
+* **Le-RNR-Map**Language-Enhanced RNR-Map: Querying Renderable Neural Radiance Field Maps with Natural Language , *ICCV-W 2023*, [[Website](https://intelligolabs.github.io/Le-RNR-Map/)]
 
 * **NeRF2Real**: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2210.04932.pdf)]
 
