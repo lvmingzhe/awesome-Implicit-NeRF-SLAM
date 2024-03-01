@@ -200,11 +200,11 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 
 ### 3D Gaussian Splatting Visual-SLAM
 
-* **GS-SLAM**:Dense Visual SLAM with 3D Gaussian Splatting, *arxiv 2023* [[Paper](https://arxiv.org/abs/2311.11700)]
+* **GS-SLAM**:Dense Visual SLAM with 3D Gaussian Splatting, *CVPR 2024* [[Paper](https://arxiv.org/abs/2311.11700)]
 * **Photo-SLAM**: Real-time Simultaneous Localization and Photorealistic Mapping for Monocular, Stereo, and RGB-D Cameras, *arxiv 2023* [[Paper](https://arxiv.org/pdf/2311.16728.pdf)]
-* **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
+* **SplaTAM**: Splat, Track & Map 3D Gaussians for Dense RGB-D SLAM, *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2312.02126.pdf)] [[Website](https://spla-tam.github.io/)] [[Code](https://github.com/spla-tam/SplaTAM)]
 * **Gaussian-SLAM**: Photo-realistic Dense SLAM with Gaussian Splatting, *arxiv 2023* [[Paper](https://ivi.fnwi.uva.nl/cv/paper/GaussianSLAM.pdf)]
-* **Gaussian Splatting SLAM**, *arxiv 2023* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
+* **Gaussian Splatting SLAM**, *CVPR 2024* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 * **MoD-SLAM**: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03762.pdf)]
 * **SGS-SLAM**: Semantic Gaussian Splatting For Neural Dense SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)]
 
