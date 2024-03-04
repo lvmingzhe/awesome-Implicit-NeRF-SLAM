@@ -225,6 +225,7 @@ Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/23
 - **NeRF-LiDAR**: Generating Realistic LiDAR Point Clouds with Neural Radiance Fields, *AAAI 2024* [[Paper](https://arxiv.org/abs/2304.14811)]
 - **N3-Mapping**: Normal Guided Neural Non-Projective Signed Distance Fields for Large-scale 3D Mapping, *arxiv 2024* [[Paper](https://arxiv.org/pdf/2401.03412.pdf)]
 - **PIN-SLAM**: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency, *arxiv 2024* [[Paper](https://www.scholar-inbox.com/papers/Pan2024ARXIV_PIN_SLAM_LiDAR_SLAM.pdf)][[Code](https://github.com/PRBonn/PIN_SLAM)]
+- Towards Large-Scale Incremental Dense Mapping using Robot-centric Implicit Neural Representation, *ICRA, 2024*.  [[Paper](https://arxiv.org/pdf/2306.10472.pdf)] [[Code](https://github.com/HITSZ-NRSL/RIM)] [[Video](https://www.youtube.com/watch?v=sHJ4lju6hsk)]
 
 - **DrivingGaussian**: Composite Gaussian Splatting for Surrounding Dynamic Autonomous Driving Scenes， *arxiv 2023* [[Website](https://pkuvdig.github.io/DrivingGaussian/)]
 
