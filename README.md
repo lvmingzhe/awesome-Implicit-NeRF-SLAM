@@ -298,6 +298,9 @@ Fields for Large-Scale 3D Scenes, *arxiv 2023* [[Paper](https://arxiv.org/pdf/23
 
 * **NeRF2Real**: Sim2real Transfer of Vision-guided Bipedal Motion Skills using Neural Radiance Fields, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2210.04932.pdf)]
 
+* **Splat-Nav**: Safe Real-Time Robot Navigation in Gaussian Splatting Maps, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.02751.pdf)]
+
+
 ----
 ## Citation
 
