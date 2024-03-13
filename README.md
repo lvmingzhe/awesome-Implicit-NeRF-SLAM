@@ -208,6 +208,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Gaussian Splatting SLAM**, *CVPR 2024* [[Website](https://rmurai.co.uk/projects/GaussianSplattingSLAM/)]
 * **MoD-SLAM**: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03762.pdf)]
 * **SGS-SLAM**: Semantic Gaussian Splatting For Neural Dense SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)]
+* **SEMGAUSS-SLAM**: DENSE SEMANTIC GAUSSIAN SPLATTING SLAM,  *arXiv, 2024*. [[Paper](https://www.scholar-inbox.com/papers/Zhu2024ARXIV_SemGauss_SLAM_Dense_Semantic.pdf)]
 
 ---
 ### NeRF-based Lidar-SLAM
