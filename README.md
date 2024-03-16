@@ -191,6 +191,8 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **Structerf-SLAM**: Neural implicit representation SLAM for structural environments, *Computers & Graphics, 2024*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0097849324000207)]
 * **Loopy-SLAM**: Dense Neural SLAM with Loop Closures, *CVPR 2024* [[Website](https://notchla.github.io/Loopy-SLAM/)]
 * How the Hell does NeRF Matter for Real-Time RGB-D SLAM: A Novel Benchmark for Scene Representation and Geometric Rendering, *CVPR, 2024*
+* **Q-SLAM**: Quadric Representations for Monocular SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.08125.pdf)]
+
 
 ### dynamic NeRF SLAM
 
@@ -209,6 +211,7 @@ For an overview of **NeRFs**, checkout the Survey ([Neural Volume Rendering: NeR
 * **MoD-SLAM**: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03762.pdf)]
 * **SGS-SLAM**: Semantic Gaussian Splatting For Neural Dense SLAM,  *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2402.03246.pdf)]
 * **SEMGAUSS-SLAM**: DENSE SEMANTIC GAUSSIAN SPLATTING SLAM,  *arXiv, 2024*. [[Paper](https://www.scholar-inbox.com/papers/Zhu2024ARXIV_SemGauss_SLAM_Dense_Semantic.pdf)]
+* SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2403.07494.pdf)]
 
 ---
 ### NeRF-based Lidar-SLAM
